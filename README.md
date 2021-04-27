@@ -19,8 +19,11 @@ I'm a Frontend developer in [React](https://reactjs.org). I’m studying backend
 
 <br />
 ## At this time... 
+
 - 👀 I’m working like freelancer
+
 - 🌱 I’m studying to be the best.
+
 - 💞️ I’m looking to collaborate in any project to learn
 
 ## Languages and Tools
