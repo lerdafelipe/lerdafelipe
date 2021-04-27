@@ -18,7 +18,8 @@ I'm a Frontend developer in [React](https://reactjs.org). I’m studying backend
 <img align="right" alt="GIF" src="https://lerdafelipe.github.io/portfolio/img/profile-pic.png" width="240px" />
 
 <br />
-## At this time... 
+
+## What i'm up to
 
 - 👀 I’m working like freelancer
 
