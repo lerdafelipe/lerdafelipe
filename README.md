@@ -12,6 +12,9 @@ I'm a Frontend developer in [React](https://reactjs.org). I’m studying backend
 <a href="https://www.instagram.com/lerdafelipe/">
 <img align="left" alt="Lerda Felipe Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
+<a href="https://lerda-felipe.web.app/">
+<img align="left" alt="Lerda Felipe Web" width="22px" src="https://icongr.am/fontawesome/globe.svg?size=128&color=70c8ff" />
+</a>
 
 <br />
 
