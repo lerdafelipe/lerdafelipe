@@ -18,7 +18,7 @@ I'm a Frontend developer in [React](https://reactjs.org). I’m studying backend
 
 <br />
 
-<img align="right" alt="GIF" src="https://lerdafelipe.github.io/portfolio/img/profile-pic.png" width="240px" />
+<img align="right" alt="Felipe Lerda" src="https://lerda-felipe.web.app/img/profile-pic.png" width="240px" />
 
 <br />
 
