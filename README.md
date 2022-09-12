@@ -1,5 +1,5 @@
 ## Hello World 👋 I’m [Felipe Lerda!](https://lerdafelipe.com)
-I'm a Frontend developer in [React](https://reactjs.org). I’m studying backend development and i love 💞️ to learn.
+I'm a Frontend developer in [React](https://reactjs.org), but I can work like backend developer with nodejs and express. I love 💞️ to learn.
 
 <br/>
 
@@ -37,7 +37,7 @@ I'm a Frontend developer in [React](https://reactjs.org). I’m studying backend
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/524/906/png-transparent-node-js-logo-nodejs-javascript-source-code-programming-development.png"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/450/470/png-transparent-node-js-angularjs-react-javascript-npm-node-js-angle-text-trademark.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/669/447/png-transparent-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-violet.png"></code>
