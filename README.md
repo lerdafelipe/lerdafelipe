@@ -28,7 +28,7 @@ I'm a Frontend developer in [React](https://reactjs.org), but I can work like ba
 
 - 🌱 I’m studying to be the best.
 
-- 💞️ I’m looking to collaborate in any project to learn
+- 💞️ I love doing projects to push ideas as high as possible.
 
 ## Languages and Tools
 
