@@ -1,9 +1,9 @@
 ## Hello World 👋 I’m [Felipe Lerda!](https://lerdafelipe.com)
-Front-end developer con conocimientos de backend. Mi stack principal es React, Next, Javascript, Typescript, Tailwind, SCSS, Redux, Node, etc. Përo estoy abierto a trabajar con cualquier tecnología si el proyecto es interesante.
+I'm a front-end developer with backend knowledge. My main stack includes React, Next, Javascript, Typescript, Tailwind, SCSS, Redux, Node, etc. However, I'm open to working with any technology if the project is interesting.
 
-He trabajado freelancer y solo, por ende he llevado a cabo proyectos enteros desde el primer contacto con el cliente hasta la entrega del producto finalizado. Tengo skills para entender lo que el cliente quiere y llevarlo a cabo. Un buen porcentaje de los cliente volvieron a pedir más funcionalidades.
+I've worked as a freelancer and independently, which means I've handled entire projects from the initial client contact to delivering the final product. I have the skills to understand client requirements and bring them to life. A significant percentage of my clients have returned for additional features.
 
-Últimamente, he trabajado también en equipos, mis principales objetivos al trabajar en equipo es organizar bases solidas sobre los proyectos, para que cualquier crecimiento se pueda hacer más sencillo. Me gusta mucho optimizar tiempos y generar un flujo de trabajo positivo.
+Lately, I've also worked in teams. My primary focus when working in teams is to establish a solid foundation for projects, making any future growth smoother. I'm enthusiastic about optimizing processes and creating a positive workflow.
 
 <br/>
 
